@@ -1,0 +1,202 @@
+
+
+ Модуль 2 Заняття 3 Основи CSS
+
+https://youtu.be/oiMafgYpI5I
+
+Як обіцяв, зробив для вас демо по комбінованим селекторам -
+ 
+https://codepen.io/dima_riabovol/pen/QWaMWYg. 
+
+Можете змінювати селектори або значення 
+і дивитись як на це реагує вигляд меню. 
+Описав максимально простими словами 
+
+Більше інформації про комбіновані селектори тут - 
+
+https://doka.guide/css/combined-selectors/
+
+Програма, якою користуюсь, 
+щоб мати доступ до ресурсу Дока - https://1.1.1.1/ 
+(також можете корстуватися будь-яким VPN)
+
+Також, вчора було питання, де можна додатково почитати 
+та попрактикуватися HTML/CSS:
+
+ Професійна документація HTML та CSS
+https://developer.mozilla.org/ru/docs/Web/HTML
+https://developer.mozilla.org/ru/docs/Web/CSS
+
+Безкоштовні онлайн тренажери по HTML та CSS
+https://ru.code-basics.com/languages/html
+https://ru.code-basics.com/languages/css
+
+
+Модуль 2 Заняття 4 Оформлення тексту 
+
+https://youtu.be/B8YL4WWe61M
+
+
+Для закріплення знань про шрифти, 
+корисна інформація тут - 
+https://doka.guide/css/font-face/
+https://doka.guide/css/font-display/
+
+Вирішив записати для вас корисне коротке відео!
+На минулому занятті ми розбирали з вами як працювати зі шрифтами, 
+і стосовно цієї теми я захотів поділитися з вами крутим ресурсом 
+для автоматичного генерування @font-face правил, 
+що збереже ваш дорогіцінний час:
+
+ Відео - https://drive.google.com/file/d/transfonter-overview
+ Transfonter. 
+@font-face генератор - https://transfonter.org/
+ @font-face. 
+Інформація про всі формати шрифтів - 
+https://developer.mozilla.org/ru/docs/Web/CSS/@font-face
+
+https://developer.mozilla.org/ru/docs/Web/HTML
+https://developer.mozilla.org/ru/docs/Web/CSS
+
+
+
+Модуль 3 Заняття 5 Блочна модель
+
+https://youtu.be/PzmGo_6s9W4
+
+
+Модуль 3 - Заняття 6 - Flexbox
+
+https://youtu.be/amUwEqk1s3w
+
+GitHub. Код, який писали на уроці - 
+https://github.com/dimariabovol/goit-lessons
+
+Гайд по flexbox. 
+Простими словами про флекс 
+(для тих, хто хоче ще раз закріпити знання :мышцы::оттенок_кожи_2:) 
+
+- https://doka.guide/css/flexbox-guide/
+
+
+Модуль 4. Заняття 7. Фон і декоративні елементи
+
+https://youtu.be/tEA3Pz_y5HQ
+
+Модуль 4 Заняття 8 Векторна графіка
+
+https://youtu.be/822Y3t7aqFM
+
+Привіт!
+Знайшов зараз цікаву статтю на тему 
+Як користуватися форматом WebP та захотів з вами поділитися
+Думаю, буде корисним закріпленням теми останніх занять - 
+Фон та декоративні елементи WebP. 
+Розглядається Як, Коли та чи 
+Потрібно взагалі використовувати WebP формат для зображень на сайті 
+- https://medium.com/@inna_netum/using-webp-images
+Також завантажив код занять по 4-му модулю тут - 
+https://github.com/dimariabovol/goit-lessons
+
+ Модуль 5 Заняття 9 Позиціоновані елементи
+
+https://youtu.be/_2WLubxgqyc
+
+
+ Модуль 5 Заняття 10 Переходи та анімація
+
+https://youtu.be/xN_oBcHIHU4
+
+Модуль 6 Заняття 11 Розмітка форм
+
+https://youtu.be/iIpj1M6bPfk
+
+ Робота з ARIA. Прочитайте вступ для розуміння, що таке ARIA - 
+https://developer.mozilla.org/ru/docs/Web/Accessibility/ARIA
+ Атрибут role. Коли і як потрібно використовувати. 
+Інформація на англ, але з перекладачем Vimbox думаю проблем не буде :) 
+- https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles
+
+ Vimbox від Skyeng. Миттєвий переклад в Chrome - 
+https://chrome.google.com/webstore/detail/vimbox
+ GitHub. Код з минулого заняття - https://github.com/dimariabovol/goit-lessons
+
+
+ Модуль 6 Заняття 12 Стилізація форм
+
+https://youtu.be/y5ATlYDq52I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
